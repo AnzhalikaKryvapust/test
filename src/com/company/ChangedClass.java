@@ -6,5 +6,8 @@ package com.company;
  * @author Anzhalika Kryvapust
  */
 public class ChangedClass {
-    // first (feature1, wrong PR in master, then PR into DEV)
+    // first (feature1, wrong PR in master, then PR into DEV )   - >ADDTEXT (feature2)
+
+
+    // new line (feature2)
 }
